@@ -1,7 +1,7 @@
 
 appdirs==1.4.4
 argh==0.26.2
-
+pip install --upgrade pip
 arrow==0.13.1
 
 astunparse==1.6.3
