@@ -114,8 +114,7 @@ pyreadline==2.1
 
 python-jwt==3.3.0
 
-pywin32==227
-pywin32-ctypes==0.2.0
+
 
 PyYAML==5.4.1
 
