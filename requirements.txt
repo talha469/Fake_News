@@ -1,7 +1,7 @@
 
 appdirs==1.4.4
 argh==0.26.2
-pip install --upgrade pip
+
 arrow==0.13.1
 
 astunparse==1.6.3
@@ -139,7 +139,7 @@ sseclient==0.0.27
 statsmodels==0.12.2
 
 
-tensorflow==2.2.0
+tensorflow>=2.1.0
 
 termcolor==1.1.0
 
