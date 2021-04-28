@@ -10,10 +10,6 @@ scikit-learn>=0.18
 matplotlib>=1.4.3
 pandas>=0.19
 pmdarima>=1.8.1
-
-statsmodels=0.11.1>=py37he774522_0
-tensorboard=2.3.0>=pypi_0
-tensorboard-plugin-wit>=1.6.0=py_0
 tensorflow=2.1.0>=eigen_py37hd727fc0_0
 tensorflow-base=2.1.0>=eigen_py37h49b2757_0
 tensorflow-cpu=2.3.0>=pypi_0
